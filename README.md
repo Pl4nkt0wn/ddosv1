@@ -1,2 +1,6 @@
 # ddosv1
-simpel network attack for DDoS
+simple network attack for DDoS
+
+```
+python.exe ddos.py
+```
